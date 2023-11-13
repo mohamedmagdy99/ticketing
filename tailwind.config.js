@@ -15,9 +15,9 @@ module.exports = {
       colors: {
         nav: "#9BBEC8",
         page: "#164863",
-        card: "#DDF2FD",
-        "card-hover": "#427D9D",
-        "defult-text": "#DDF2FD",
+        card: "#427D9D",
+        "card-hover": "#DDF2FD",
+        "defult-text": "#0F0F0F",
         "blue-accent": "#39A7FF",
         "blue-accent-hover": "#87C4FF",
       },
