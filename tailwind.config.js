@@ -18,6 +18,7 @@ module.exports = {
         card: "#427D9D",
         "card-hover": "#DDF2FD",
         "defult-text": "#0F0F0F",
+        "form-text": "#A0E9FF",
         "blue-accent": "#39A7FF",
         "blue-accent-hover": "#87C4FF",
       },
